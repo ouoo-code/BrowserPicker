@@ -3,5 +3,4 @@
 
 然后右键Install.ps1，power shell，选择这个工具为默认浏览器即可。
 
-![运行界面](image.jpg)
-
+![运行界面](./image.jpg)
